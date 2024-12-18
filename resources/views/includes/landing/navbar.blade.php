@@ -10,7 +10,7 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto active" href="#hero">Utama</a></li>
           <li><a class="nav-link scrollto" href="#about">Tentang kami</a></li>   
           <div> <a class="border-solid" href="{{ url('login')}}">Masuk</a></div>
           <div> <a class="border-solid" href="{{ url('register')}}">Daftar</a></div>

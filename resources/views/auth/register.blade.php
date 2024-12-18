@@ -2,7 +2,7 @@
     <x-auth-card>
         <x-slot name="logo">
             <a href="/">
-                <img class="w-20 h-20" src="{{ asset('img/logo2.jpeg')}}" alt="Logo">
+            <img class="w-20 h-20 rounded-full" src="{{ asset('img/logo2.jpeg') }}" alt="Logo">
             </a>
         </x-slot>
 
@@ -42,12 +42,14 @@
             <div class="mt-4">
                 <label for="password" style="color:white;">Kata Sandi</label>
                 <input id="password" class="input-field" type="password" name="password" required>
+                <label for="password" style="color:white;">*Minimal 8 karakter (0-9, A-z, simbol)</label>
             </div>
 
             <!-- Confirm Password -->
             <div class="mt-4">
                 <label for="password_confirmation" style="color:white;">Konfirmasi Sandi</label>
                 <input id="password_confirmation" class="input-field" type="password" name="password_confirmation" required>
+                
             </div>
 
             <div class="flex items-center justify-end mt-4">

@@ -32,6 +32,7 @@
                                 type="password"
                                 name="password"
                                 required autocomplete="current-password" />
+                <x-label for="password" :value="('*Minimal 8 karakter (0-9, A-z, simbol)')" class=" text-white"/>
             </div>
 
             <!-- Remember Me -->

@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Lapor APP</title>
+    <title>SOLVITY</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -61,7 +61,7 @@
             <div class="container">
 
                 <div class="section-title" data-aos="fade-up">
-                    <h2>ABOUT US</h2>
+                    <h2>TENTANG KAMI</h2>
                 </div>
 
                 <div class="about-row d-flex justify-content-center gap-4" >
@@ -108,7 +108,7 @@
                             <div class="count-box">
                                 <i class="bi bi-emoji-smile"></i>
                                 <span data-purecounter-start="0" data-purecounter-end="65" data-purecounter-duration="1" class="purecounter"></span>
-                                <p><strong>Pengguna</strong><br>DAFTAR pengguna SOLVITY</p>
+                                <p><strong>Pengguna</strong><br>Daftar pengguna SOLVITY</p>
                             </div>
 
                             <div class="count-box">

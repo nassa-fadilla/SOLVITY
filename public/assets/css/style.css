@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #3498db;
+  background: #2873a5;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -442,7 +442,7 @@ section {
 /* Counts Section */
 .counts {
   padding: 30px 0;
-  background: #f5fbf9;
+  background: #073770;
 }
 
 .counts .content {
@@ -658,7 +658,7 @@ section {
 }
 
 .login-btn {
-  background-color: #D9D9D9;
+  background-color: #073770;
   color: #101010;
 }
 
@@ -688,7 +688,7 @@ section {
 
 /* Button Styling */
 .custom-button {
-  background-color: #D9D9D9;
+  background-color: #ffffff;
   color: #101010;
   font-weight: bold;
   padding: 0.75rem 1rem;
@@ -701,13 +701,13 @@ section {
 }
 
 .custom-button:hover {
-  background-color: #f4f4f4;
+  background-color: #Edd251;
   transform: scale(1.05);
 }
 
 .custom-button:focus {
   outline: none;
-  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.5);
+  box-shadow: 0 0 0 3px rgba(192, 152, 8, 0.5);
 }
 
 
@@ -715,7 +715,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #00384e;
+  background: #073770;
   box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
   padding: 30px 0;
   color: #ffffff;
